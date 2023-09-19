@@ -15,30 +15,32 @@ You can install the PyPDF2 library using pip:
 
 ```bash
 pip install PyPDF2
+```
+# Usage
+1. Clone this repository to your local machine or download the script (pdf_text_extraction.py) directly.
 
-Usage
-Clone this repository to your local machine or download the script (pdf_text_extraction.py) directly.
+2. Run the script using the following command:
 
-Run the script using the following command:
-
+```bash
 python pdf_text_extraction.py
+```
 
-Enter the name of the PDF file (including the extension) when prompted.
+1. Enter the name of the PDF file (including the extension) when prompted.
 
-Enter the name of the output text file (including the extension) when prompted.
+2. Enter the name of the output text file (including the extension) when prompted.
 
-The script will extract text from the last page of the PDF and save it to the specified text file.
+3. The script will extract text from the last page of the PDF and save it to the specified text file.
 
-Example
+## Example
 
 Enter the name of the PDF file (including the extension): example.pdf
 Enter the name of the output text file (including the extension): output.txt
 Text extracted from the last page and saved to output.txt.
 
-Contributing
+## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-Acknowledgments
+## Acknowledgments
 PyPDF2 - Python library for PDF processing.
 
 This README.md file includes all the sections you requested in a single document. You can copy and paste this content into your GitHub repository's README.md file.
